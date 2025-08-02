@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <body style="background-color: aqua;">
+            <h1 style="color: #5E1675; font: size 54px;">Eka isla</h1>
+            <p> caoigue tubao la union</p>
+            <img src = "C:\Users\User\Desktop\eka isla\Screenshot_2025-08-02_150427-removebg-preview.png">
+            <table>
+                <tr>
+                    <th>
+                         name
+                    </th>
+                    <th>
+                         age
+                    </th>
+                    <th>
+                        address
+                    </th>
+
+                </tr>
+                <tr> 
+                    <td>
+                        Eka isla
+                    </td>
+                    <td>
+                        19
+                    </td>
+                    <td>
+                        caoigue tubao la union 
+                    </td>
+                </tr>
+            </table>
+        </body>
+    </head>
